@@ -26,7 +26,7 @@ redirect_from:
 - *2023.06*: &nbsp;🎉🎉 Our paper has won the excellent academic paper from Chinese Institute of Electronics
 - *2023.04*: &nbsp;🎉🎉 One paper has been accepted by ICML 2023 
 
-# 📝 Publications (selected)
+# 📝 Publications
 <h3>Conferences</h3>
 - [Improving the Model Consistency of Decentralized Federated Learning], Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang, Dacheng Tao, **International Conference on Machine Learning (ICML) 2023**
 - [Make Landscape Flatter in Differentially Private Federated Learning], Yifan Shi, Yingqi Liu, <u><b>Kang Wei</b></u>, Li Shen, Xueqian Wang and Dacheng Tao, **IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023**
