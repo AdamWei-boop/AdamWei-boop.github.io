@@ -40,7 +40,7 @@ redirect_from:
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Improving the Model Consistency of Decentralized Federated Learning](https://github.com), Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang, Dacheng Tao, **CVPR 2023**
 
 # 🎖 Honors and Awards
 - *2023.06* Excellent Academic Paper, Awarded by Chinese Institute of Electronics. 
