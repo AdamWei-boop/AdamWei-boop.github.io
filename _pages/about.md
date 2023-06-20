@@ -43,8 +43,13 @@ redirect_from:
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06* Excellent Academic Paper, Awarded by Chinese Institute of Electronics. 
+- *2023.04* Post-doctoral Matching Fund. Awarded by PolyU.
+- *2023.02* Wiley China Open Science Author of the Year, Awarded by Wiley. 
+- *2022.12* Best Paper Award. IEEE Signal Processing Society.
+- *2021.10* National Scholarship for Doctoral Students, Awarded by Nanjing University of Science and Technology. 
+- *2021.04* Tencent Rhinoceros Bird Project, Awarded by Tencent.
+- *2021-2023* Outstanding Doctoral Program, Awarded by Nanjing University of Science and Technology. 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
