@@ -23,8 +23,8 @@ redirect_from:
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06*: &nbsp;🎉🎉 Our paper has won the excellent academic paper from Chinese Institute of Electronics
+- *2023.04*: &nbsp;🎉🎉 One paper has been accepted by ICML 2023 
 
 # 📝 Publications (selected)
 <h3>Conferences</h3>
