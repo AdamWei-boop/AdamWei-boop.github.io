@@ -6,7 +6,7 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
+  - title: "Publications (selected)"
     url: "/#-publications"
 
   - title: "Honors and Awards"
