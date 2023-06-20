@@ -19,7 +19,7 @@ redirect_from:
 
 <p align="justify"> I am currently a postdoctoral fellow at The Hong Kong Polytechnic University, supervised by <a href = "https://scholar.google.com/citations?user=Ib-sizwAAAAJ&hl=zh-CN&oi=ao"><b>Prof. Song Guo</b></a>, Fellow of IEEE. He received his Ph.D. degree from Nanjing University of Science and Technology, supervised by <a href = "https://scholar.google.com/citations?user=pg2qGzQAAAAJ&hl=zh-CN"><b>Prof. Jun Li</b></a>. Before that, he received the B.S. degree in information engineering from Xidian University, Xian, China, in 2014. From Jun. 2021 to Dec. 2021, he was a research intern (Rhinoceros Bird Project) at Tencent, Shenzhen, supervised by <b>Dr. Yong Cheng</b>. </p>
 
-<p align="justify"> I mainly focus on privacy protection and optimization techniques for edge intelligence, such as federated learning, differential privacy and network resource allocation. I have published several prestigious papers at the top international AI conferences and journals (You can also use google scholar badge <a href='https://scholar.google.ca/citations?hl=en&user=CYqbLN8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). </p>
+<p align="justify"> I mainly focus on privacy protection and optimization techniques for edge intelligence, such as federated learning, differential privacy and network resource allocation. I have published several prestigious papers at the top international AI conferences and journals. </p>
 
 
 # 🔥 News
@@ -28,19 +28,11 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Improving the Model Consistency of Decentralized Federated Learning](https://github.com), Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang, Dacheng Tao, **CVPR 2023**
+<p><font style="color:#527bbd;"><b>[ICML]</font></b>&nbsp <a href="https://icml.cc/Conferences/2023/Dates" target=&ldquo;blank&rdquo;>
+Improving the Model Consistency of Decentralized Federated Learning</a>, <br /> 
+Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang, Dacheng Tao. <br />
+In Proc. The Fortieth International Conference on Machine Learning (ICML), 2023.<br />  
+(<b>CCF-A, Top AI Conference</b>)<br /> </p>
 
 # 🎖 Honors and Awards
 - *2023.06* Excellent Academic Paper, Awarded by Chinese Institute of Electronics. 
