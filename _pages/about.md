@@ -49,21 +49,25 @@ redirect_from:
 - [Differentially Private Federated Learning: Algorithm, Analysis and Optimization](https://github.com), <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, **Federated Learning Systems, Springer Nature 2021**
 
 # 🎖 Honors and Awards
-- *2023.06* Excellent Academic Paper, Awarded by Chinese Institute of Electronics. 
-- *2023.04* Post-doctoral Matching Fund. Awarded by PolyU.
-- *2023.02* Wiley China Open Science Author of the Year, Awarded by Wiley. 
-- *2022.12* Best Paper Award. IEEE Signal Processing Society.
-- *2021.10* National Scholarship for Doctoral Students, Awarded by Nanjing University of Science and Technology. 
-- *2021.04* Tencent Rhinoceros Bird Project, Awarded by Tencent.
-- *2021-2023* Outstanding Doctoral Program, Awarded by Nanjing University of Science and Technology. 
+- *2023.06* Excellent Academic Paper, Awarded by Chinese Institute of Electronics
+- *2023.04* Post-doctoral Matching Fund. Awarded by PolyU
+- *2023.02* Wiley China Open Science Author of the Year, Awarded by Wiley
+- *2022.12* Best Paper Award, Awarded by IEEE Signal Processing Society
+- *2021.12* First Place of iDASH Privacy and Security Workshop-Secure Genome Analysis Competition, Awarded by National Institutes of Health (<b>美国国立卫生研究院</b>)
+- *2021.10* National Scholarship for Doctoral Students, Awarded by Nanjing University of Science and Technology 
+- *2021.04* Tencent Rhinoceros Bird Project, Awarded by Tencent
+- *2021-2023* Outstanding Doctoral Program, Awarded by Nanjing University of Science and Technology
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.01 - now*, Post-doctoral Fellow, The Hong Kong Polytechnic University, Hong Kong 
+- *2018.09 - 2023.01*, Ph.D., Nanjing University of Science and Technology, Nanjing China
+- *2017.09 - 2018.06*, Master, Nanjing University of Science and Technology, Nanjing China
+- *2010.08 - 2014.07*, B.E., Xidian University, Xidian China
+- *2007.09 - 2010.06*, High school, Nanjing Dongshan Foreign Language School, Nanjing China 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2020*, Communication Rounds Discounting in Federated Learning with Differential Privacy, IEEE International Symposium on a Word of Wireless, Mobile and Multimedia Networks (WOWMOM)-Intelligent Things and Services (INTHINGS) 
+- *2020*, Privacy and Security in Federated Learning, IEEE/CIC ICCC
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Experiences
+- *2021.06 - 2021.12*, Research Intern, Tencent, Shenzhen China
