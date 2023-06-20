@@ -49,14 +49,14 @@ redirect_from:
 - [Differentially Private Federated Learning: Algorithm, Analysis and Optimization], <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, **Federated Learning Systems, Springer Nature 2021**
 
 # 🎖 Honors and Awards
-- *2023.06* Excellent Academic Paper, Awarded by Chinese Institute of Electronics (<b>中国电子学会</b>)
-- *2023.04* Post-doctoral Matching Fund. Awarded by PolyU
-- *2023.02* Wiley China Open Science Author of the Year, Awarded by Wiley
-- *2022.12* Best Paper Award, Awarded by IEEE Signal Processing Society (<b>IEEE信号处理学会</b>)
-- *2021.12* First Place of iDASH Privacy and Security Workshop-Secure Genome Analysis Competition, Awarded by National Institutes of Health (<b>美国国立卫生研究院</b>)
-- *2021.10* National Scholarship for Doctoral Students, Awarded by Nanjing University of Science and Technology 
-- *2021.04* Tencent Rhinoceros Bird Project, Awarded by Tencent
-- *2021-2023* Outstanding Doctoral Program, Awarded by Nanjing University of Science and Technology
+- *2023.06*: Excellent Academic Paper, Awarded by Chinese Institute of Electronics (<b>中国电子学会</b>)
+- *2023.04*: Post-doctoral Matching Fund. Awarded by PolyU
+- *2023.02*: Wiley China Open Science Author of the Year, Awarded by Wiley
+- *2022.12*: Best Paper Award, Awarded by IEEE Signal Processing Society (<b>IEEE信号处理学会</b>)
+- *2021.12*: First Place of iDASH Privacy and Security Workshop-Secure Genome Analysis Competition, Awarded by National Institutes of Health (<b>美国国立卫生研究院</b>)
+- *2021.10*: National Scholarship for Doctoral Students, Awarded by Nanjing University of Science and Technology 
+- *2021.04*: Tencent Rhinoceros Bird Project, Awarded by Tencent
+- *2021-2023*: Outstanding Doctoral Program, Awarded by Nanjing University of Science and Technology
 
 # 📖 Educations
 - *2023.01 - now*, Post-doctoral Fellow, The Hong Kong Polytechnic University, Hong Kong 
