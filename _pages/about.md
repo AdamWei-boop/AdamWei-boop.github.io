@@ -27,12 +27,15 @@ redirect_from:
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+<h3>Conferences</h3>
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-<p><font style="color:#527bbd;"><b>[ICML]</font></b>&nbsp <a href="https://icml.cc/Conferences/2023/Dates" target=&ldquo;blank&rdquo;>
-Improving the Model Consistency of Decentralized Federated Learning</a>, <br /> 
-Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang, Dacheng Tao. <br />
-In Proc. The Fortieth International Conference on Machine Learning (ICML), 2023.<br />  
-(<b>CCF-A, Top AI Conference</b>)<br /> </p>
+<h3>Journals</h3>
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2023.06* Excellent Academic Paper, Awarded by Chinese Institute of Electronics. 
