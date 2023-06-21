@@ -28,8 +28,8 @@ redirect_from:
 
 # 📝 Publications
 <h3>Conferences</h3>
-- <p align="justify">[Improving the Model Consistency of Decentralized Federated Learning], Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang, Dacheng Tao, **International Conference on Machine Learning (ICML) 2023** </p>
-- <p align="justify">[Make Landscape Flatter in Differentially Private Federated Learning], Yifan Shi, Yingqi Liu, <u><b>Kang Wei</b></u>, Li Shen, Xueqian Wang and Dacheng Tao, **IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023** </p>
+-<p align="justify"> [Improving the Model Consistency of Decentralized Federated Learning], Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang, Dacheng Tao, **International Conference on Machine Learning (ICML) 2023** </p>
+-<p align="justify"> [Make Landscape Flatter in Differentially Private Federated Learning], Yifan Shi, Yingqi Liu, <u><b>Kang Wei</b></u>, Li Shen, Xueqian Wang and Dacheng Tao, **IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023** </p>
 
 <h3>Journals</h3>
 - <p align="justify"> [Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization], <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Yo-Seb Jeon, H. Vincent Poor, **IEEE Transactions on Dependable and Secure Computing (TDSC) 2023** </p>
