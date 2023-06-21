@@ -27,26 +27,26 @@ redirect_from:
 - *2023.04*: &nbsp;🎉🎉 One paper has been accepted by ICML 2023 
 
 # 📝 Publications
-<p align="justify"> <h3>Conferences</h3>
-- [Improving the Model Consistency of Decentralized Federated Learning], Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang, Dacheng Tao, **International Conference on Machine Learning (ICML) 2023**
-- [Make Landscape Flatter in Differentially Private Federated Learning], Yifan Shi, Yingqi Liu, <u><b>Kang Wei</b></u>, Li Shen, Xueqian Wang and Dacheng Tao, **IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023**
+<h3>Conferences</h3>
+- <p align="justify"> [Improving the Model Consistency of Decentralized Federated Learning], Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang, Dacheng Tao, **International Conference on Machine Learning (ICML) 2023** </p>
+- <p align="justify"> [Make Landscape Flatter in Differentially Private Federated Learning], Yifan Shi, Yingqi Liu, <u><b>Kang Wei</b></u>, Li Shen, Xueqian Wang and Dacheng Tao, **IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023** </p>
 
 <h3>Journals</h3>
-- [Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization], <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Yo-Seb Jeon, H. Vincent Poor, **IEEE Transactions on Dependable and Secure Computing (TDSC) 2023**
-- [Personalized Federated Learning with Differential Privacy and Convergence Guarantee], <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Wen Chen, Jun Wu, Meixia Tao, H. Vincent Poor, **IEEE Transactions on Information Forensics & Security (TIFS) 2023**
-- [User-level Privacy-preserving Federated Learning: Analysis and Performance Optimization], <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Hang Su, Bo Zhang and H Vincent Poor, **IEEE Transactions on Mobile Computing (TMC) 2022**
-- [Low-Latency Federated Learning Over Wireless Channels With Differential Privacy], <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding, Cailian Chen, Shi Jin, Zhu Han and H. Vincent Poor, **IEEE Journal on Selected Areas in Communications (ISAC) 2022**
-- [Federated Learning with Differential Privacy: Algorithms and Performance Analysis], <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Howard H. Yang, Farhad Farokhi, Shi Jin, Tony Q. S. Quek and H. Vincent Poor, **IEEE Transactions on Information Forensics and Security (TIFS) 2020**
-- [Page-based Dynamic Partitioning Scheduling for LDPC Decoding in MLC NAND Flash Memory], <u><b>Kang Wei</b></u>, Jun Li, Lingjun Kong, Feng Shu, Francis C. M. Lau, **IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II) 2019**
-- [DP-GenFL: A Local Differentially Private Federated Learning System through Generative Data], Jun Li, <u><b>Kang Wei</b></u>, Chuan Ma and Feng Shu, **SCIENCE CHINA Information Sciences (SCIS) 2022**
-- [Amplitude-Varying Perturbation for Balancing Privacy and Utility in Federated Learning], Xin Yuan, Wei Ni, Ming Ding, <u><b>Kang Wei (Corresponding Author)</b></u>, Jun Li and H. Vincent Poor, **IEEE Transactions on Information Forensics & Security (TIFS) 2023**
-- [RDP-GAN: A R{\'e}nyi-Differential Privacy based Generative Adversarial Network], Chuan Ma, Jun Li, Ming Ding, Bo Liu, <u><b>Kang Wei (Corresponding Author)</b></u>, Jian Weng and H. Vincent Poor, **IEEE Transactions on Dependable and Secure Computing (TDSC) 2023**
-- [Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance Analysis and Resource Allocation], Jun Li, Yumeng Shao, <u><b>Kang Wei</b></u>, Ming Ding, Chuan Ma, Long Shi, Zhu Han and H Vincent Poor, **IEEE Transactions on Parallel and Distributed Systems (TPDS) 2022**
-- [Low-latency Federated Learning with DNN Partition in Distributed Industrial IoT Networks], Xiumei Deng, Jun Li, Chuan Ma, <u><b>Kang Wei</b></u>, Long Shi, Ming Ding and Wen Chen, **IEEE Journal on Selected Areas in Communications (JSAC) 2023**
-- [Blockchain Assisted Federated Learning over Wireless Channels: Dynamic Resource Allocation and Client Scheduling], Xiumei Deng, Jun Li, Chuan Ma, <u><b>Kang Wei</b></u>, Long Shi, Ming Ding, Wen Chen and H. Vincent Poor, **IEEE Transactions on Wireless Communications (TWC) 2022**
+- <p align="justify"> [Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization], <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Yo-Seb Jeon, H. Vincent Poor, **IEEE Transactions on Dependable and Secure Computing (TDSC) 2023** </p>
+- <p align="justify"> [Personalized Federated Learning with Differential Privacy and Convergence Guarantee], <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Wen Chen, Jun Wu, Meixia Tao, H. Vincent Poor, **IEEE Transactions on Information Forensics & Security (TIFS) 2023** </p>
+- <p align="justify"> [User-level Privacy-preserving Federated Learning: Analysis and Performance Optimization], <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Hang Su, Bo Zhang and H Vincent Poor, **IEEE Transactions on Mobile Computing (TMC) 2022** </p>
+- <p align="justify"> [Low-Latency Federated Learning Over Wireless Channels With Differential Privacy], <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding, Cailian Chen, Shi Jin, Zhu Han and H. Vincent Poor, **IEEE Journal on Selected Areas in Communications (ISAC) 2022** </p>
+- <p align="justify"> [Federated Learning with Differential Privacy: Algorithms and Performance Analysis], <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Howard H. Yang, Farhad Farokhi, Shi Jin, Tony Q. S. Quek and H. Vincent Poor, **IEEE Transactions on Information Forensics and Security (TIFS) 2020** </p>
+- <p align="justify"> [Page-based Dynamic Partitioning Scheduling for LDPC Decoding in MLC NAND Flash Memory], <u><b>Kang Wei</b></u>, Jun Li, Lingjun Kong, Feng Shu, Francis C. M. Lau, **IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II) 2019** </p>
+- <p align="justify"> [DP-GenFL: A Local Differentially Private Federated Learning System through Generative Data], Jun Li, <u><b>Kang Wei</b></u>, Chuan Ma and Feng Shu, **SCIENCE CHINA Information Sciences (SCIS) 2022** </p>
+- <p align="justify"> [Amplitude-Varying Perturbation for Balancing Privacy and Utility in Federated Learning], Xin Yuan, Wei Ni, Ming Ding, <u><b>Kang Wei (Corresponding Author)</b></u>, Jun Li and H. Vincent Poor, **IEEE Transactions on Information Forensics & Security (TIFS) 2023** </p>
+- <p align="justify"> [RDP-GAN: A R{\'e}nyi-Differential Privacy based Generative Adversarial Network], Chuan Ma, Jun Li, Ming Ding, Bo Liu, <u><b>Kang Wei (Corresponding Author)</b></u>, Jian Weng and H. Vincent Poor, **IEEE Transactions on Dependable and Secure Computing (TDSC) 2023** </p>
+- <p align="justify"> [Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance Analysis and Resource Allocation], Jun Li, Yumeng Shao, <u><b>Kang Wei</b></u>, Ming Ding, Chuan Ma, Long Shi, Zhu Han and H Vincent Poor, **IEEE Transactions on Parallel and Distributed Systems (TPDS) 2022** </p>
+- <p align="justify"> [Low-latency Federated Learning with DNN Partition in Distributed Industrial IoT Networks], Xiumei Deng, Jun Li, Chuan Ma, <u><b>Kang Wei</b></u>, Long Shi, Ming Ding and Wen Chen, **IEEE Journal on Selected Areas in Communications (JSAC) 2023** </p>
+- <p align="justify"> [Blockchain Assisted Federated Learning over Wireless Channels: Dynamic Resource Allocation and Client Scheduling], Xiumei Deng, Jun Li, Chuan Ma, <u><b>Kang Wei</b></u>, Long Shi, Ming Ding, Wen Chen and H. Vincent Poor, **IEEE Transactions on Wireless Communications (TWC) 2022** </p>
 
 <h3>Books</h3>
-- [Differentially Private Federated Learning: Algorithm, Analysis and Optimization], <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, **Federated Learning Systems, Springer Nature 2021** </p>
+- <p align="justify"> [Differentially Private Federated Learning: Algorithm, Analysis and Optimization], <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, **Federated Learning Systems, Springer Nature 2021** </p>
 
 # 🎖 Honors and Awards
 - *2023.06*: Excellent Academic Paper, Awarded by Chinese Institute of Electronics (<b>中国电子学会</b>)
