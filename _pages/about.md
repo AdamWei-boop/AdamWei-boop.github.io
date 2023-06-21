@@ -59,15 +59,15 @@ redirect_from:
 - *2021-2023*: Outstanding Doctoral Program, Awarded by Nanjing University of Science and Technology
 
 # 📖 Educations
-- *2023.01 - now*, Post-doctoral Fellow, The Hong Kong Polytechnic University, Hong Kong 
-- *2018.09 - 2023.01*, Ph.D., Nanjing University of Science and Technology, Nanjing China
-- *2017.09 - 2018.06*, Master, Nanjing University of Science and Technology, Nanjing China
-- *2010.08 - 2014.07*, B.E., Xidian University, Xidian China
-- *2007.09 - 2010.06*, High school, Nanjing Dongshan Foreign Language School, Nanjing China 
+- *2023.01 - now*: Post-doctoral Fellow, The Hong Kong Polytechnic University, Hong Kong 
+- *2018.09 - 2023.01*: Ph.D., Nanjing University of Science and Technology, Nanjing China
+- *2017.09 - 2018.06*: Master, Nanjing University of Science and Technology, Nanjing China
+- *2010.08 - 2014.07*: B.E., Xidian University, Xidian China
+- *2007.09 - 2010.06*: High school, Nanjing Dongshan Foreign Language School, Nanjing China 
 
 # 💬 Invited Talks
-- *2020*, Communication Rounds Discounting in Federated Learning with Differential Privacy, IEEE International Symposium on a Word of Wireless, Mobile and Multimedia Networks (WOWMOM)-Intelligent Things and Services (INTHINGS) 
-- *2020*, Privacy and Security in Federated Learning, IEEE/CIC ICCC
+- *2020*: Communication Rounds Discounting in Federated Learning with Differential Privacy, IEEE International Symposium on a Word of Wireless, Mobile and Multimedia Networks (WOWMOM)-Intelligent Things and Services (INTHINGS) 
+- *2020*: Privacy and Security in Federated Learning, IEEE/CIC ICCC
 
 # 💻 Experiences
-- *2021.06 - 2021.12*, Research Intern, Tencent, Shenzhen China
+- *2021.06 - 2021.12*: Research Intern, Tencent, Shenzhen China
