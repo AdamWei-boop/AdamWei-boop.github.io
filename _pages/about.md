@@ -28,12 +28,12 @@ redirect_from:
 
 # 📝 Publications
 <h3>Conferences</h3>
-- <p align="justify"> Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang, Dacheng Tao, [Improving the Model Consistency of Decentralized Federated Learning], <u><b>International Conference on Machine Learning (ICML) 2023</b></u> </p>
+- <p align="justify"> Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang and Dacheng Tao, [Improving the Model Consistency of Decentralized Federated Learning], <u><b>International Conference on Machine Learning (ICML) 2023</b></u> </p>
 - <p align="justify"> Yifan Shi, Yingqi Liu, <u><b>Kang Wei</b></u>, Li Shen, Xueqian Wang and Dacheng Tao, [Make Landscape Flatter in Differentially Private Federated Learning], <u><b>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023</b></u> </p>
 
 <h3>Journals</h3>
-- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Yo-Seb Jeon, H. Vincent Poor, [Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization], <u><b>IEEE Transactions on Dependable and Secure Computing (TDSC) 2023</b></u> </p>
-- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Wen Chen, Jun Wu, Meixia Tao, H. Vincent Poor, [Personalized Federated Learning with Differential Privacy and Convergence Guarantee], <u><b>IEEE Transactions on Information Forensics & Security (TIFS) 2023</b></u> </p>
+- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Yo-Seb Jeon and H. Vincent Poor, [Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization], <u><b>IEEE Transactions on Dependable and Secure Computing (TDSC) 2023</b></u> </p>
+- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Wen Chen, Jun Wu, Meixia Tao and H. Vincent Poor, [Personalized Federated Learning with Differential Privacy and Convergence Guarantee], <u><b>IEEE Transactions on Information Forensics & Security (TIFS) 2023</b></u> </p>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Hang Su, Bo Zhang and H Vincent Poor, [User-level Privacy-preserving Federated Learning: Analysis and Performance Optimization], <u><b>IEEE Transactions on Mobile Computing (TMC) 2022</b></u> </p>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding, Cailian Chen, Shi Jin, Zhu Han and H. Vincent Poor, [Low-Latency Federated Learning Over Wireless Channels With Differential Privacy], <u><b>IEEE Journal on Selected Areas in Communications (JSAC) 2022</b></u> </p>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Howard H. Yang, Farhad Farokhi, Shi Jin, Tony Q. S. Quek and H. Vincent Poor, [Federated Learning with Differential Privacy: Algorithms and Performance Analysis], <u><b>IEEE Transactions on Information Forensics and Security (TIFS) 2020 </p>
