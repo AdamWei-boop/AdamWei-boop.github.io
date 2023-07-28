@@ -65,7 +65,7 @@ redirect_from:
 - *2023.01 - now*: Post-doctoral Fellow, The Hong Kong Polytechnic University, Hong Kong 
 - *2018.09 - 2023.01*: Ph.D., Nanjing University of Science and Technology, Nanjing China
 - *2017.09 - 2018.06*: Master, Nanjing University of Science and Technology, Nanjing China
-- *2010.08 - 2014.07*: B.E., Xidian University, Xidian China
+- *2010.08 - 2014.07*: B.E., Xidian University, Xian China
 - *2007.09 - 2010.06*: High school, Nanjing Dongshan Foreign Language School, Nanjing China 
 
 # 💬 Invited Talks
@@ -74,3 +74,4 @@ redirect_from:
 
 # 💻 Experiences
 - *2021.06 - 2021.12*: Research Intern, Tencent, Shenzhen China
+- *2014.08 - 2016.06*: Engineer, Panda Group, Nanjing China
