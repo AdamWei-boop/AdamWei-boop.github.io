@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2023.08*: &nbsp;🎉🎉 Our paper has been accepted by Proceedings of the IEEE
 - *2023.06*: &nbsp;🎉🎉 Our paper has won the excellent academic paper award from Chinese Institute of Electronics
 - *2023.04*: &nbsp;🎉🎉 One paper has been accepted by ICML 2023 
 
