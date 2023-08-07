@@ -36,6 +36,7 @@ redirect_from:
 
 
 <h3>Journals</h3>
+- <p align="justify"> Chuan Ma, Jun Li, <u><b>Kang Wei</b></u>, Bo Liu, Ming Ding, Long Yuan, Zhu Han, H Vicent Poor, Trusted AI in multi-agent systems: An overview of privacy and security for distributed learning, <u><b>Proceedings of the IEEE 2023</b></u> </p>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Yo-Seb Jeon and H. Vincent Poor, Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization, <u><b>IEEE Transactions on Dependable and Secure Computing (TDSC) 2023</b></u> </p>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Wen Chen, Jun Wu, Meixia Tao and H. Vincent Poor, Personalized Federated Learning with Differential Privacy and Convergence Guarantee, <u><b>IEEE Transactions on Information Forensics & Security (TIFS) 2023</b></u> </p>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Hang Su, Bo Zhang and H Vincent Poor, User-level Privacy-preserving Federated Learning: Analysis and Performance Optimization, <u><b>IEEE Transactions on Mobile Computing (TMC) 2022</b></u> </p>
