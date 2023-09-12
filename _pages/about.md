@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral fellow at The Hong Kong Polytechnic University, supervised by <a href = "https://scholar.google.com/citations?user=Ib-sizwAAAAJ&hl=zh-CN&oi=ao"><b>Prof. Song Guo</b></a>, Fellow of IEEE. He received his Ph.D. degree from Nanjing University of Science and Technology, supervised by <a href = "https://scholar.google.com/citations?user=pg2qGzQAAAAJ&hl=zh-CN"><b>Prof. Jun Li</b></a>. Before that, he received the B.S. degree in information engineering from Xidian University, Xian, China, in 2014. From Jun. 2021 to Dec. 2021, he was a research intern (Rhinoceros Bird Project) at Tencent, Shenzhen, supervised by <b>Dr. Yong Cheng</b>.
+<p align="justify"> I am currently a postdoctoral fellow at The Hong Kong Polytechnic University, supervised by <a href = "https://scholar.google.com/citations?user=Ib-sizwAAAAJ&hl=zh-CN&oi=ao"><b>Prof. Song Guo</b></a>, Fellow of IEEE. He received his Ph.D. degree from Nanjing University of Science and Technology, supervised by <a href = "https://scholar.google.com/citations?user=pg2qGzQAAAAJ&hl=zh-CN"><b>Prof. Jun Li</b></a>. Before that, he received the B.S. degree in information engineering from Xidian University, Xian, China, in 2014. From Jun. 2021 to Dec. 2021, he was a research intern (Rhinoceros Bird Project) at Tencent, Shenzhen, supervised by <b>Dr. Yong Cheng</b>. </p>
 
 <p align="justify"> I mainly focus on privacy protection and optimization techniques for edge intelligence, such as federated learning, differential privacy and network resource allocation. I have published several prestigious papers at the top international AI conferences and journals. </p>
 
