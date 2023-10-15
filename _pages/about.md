@@ -55,7 +55,7 @@ redirect_from:
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, Differentially Private Federated Learning: Algorithm, Analysis and Optimization, <u><b>Federated Learning Systems, Springer Nature 2021</b></u> </p>
 
 # 🎖 Honors and Awards
-- *2023.10*: IEEE VTC2023-Fall Volunteer Service Award, Awarded by IEEE VTS
+- *2023.10*: IEEE VTC2023-Fall Volunteer Service Award, Awarded by IEEE Vehicular Technology Society (VTS)
 - *2023.06*: Excellent Academic Paper, Awarded by Chinese Institute of Electronics (<b>中国电子学会</b>)
 - *2023.04*: Post-doctoral Matching Fund., Awarded by PolyU
 - *2023.02*: Wiley China Open Science Author of the Year, Awarded by Wiley
