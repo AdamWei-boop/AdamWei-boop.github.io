@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2023.10*: &nbsp;🎉🎉 Kang Wei won the IEEE VTC2023-Fall Volunteer Service Award
 - *2023.08*: &nbsp;🎉🎉 Our paper has been accepted by Proceedings of the IEEE
 - *2023.06*: &nbsp;🎉🎉 Our paper has won the excellent academic paper award from Chinese Institute of Electronics
 - *2023.04*: &nbsp;🎉🎉 One paper has been accepted by ICML 2023 
@@ -54,8 +55,9 @@ redirect_from:
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, Differentially Private Federated Learning: Algorithm, Analysis and Optimization, <u><b>Federated Learning Systems, Springer Nature 2021</b></u> </p>
 
 # 🎖 Honors and Awards
+- *2023.10*: IEEE VTC2023-Fall Volunteer Service Award, Awarded by IEEE VTS
 - *2023.06*: Excellent Academic Paper, Awarded by Chinese Institute of Electronics (<b>中国电子学会</b>)
-- *2023.04*: Post-doctoral Matching Fund. Awarded by PolyU
+- *2023.04*: Post-doctoral Matching Fund., Awarded by PolyU
 - *2023.02*: Wiley China Open Science Author of the Year, Awarded by Wiley
 - *2022.12*: Best Paper Award, Awarded by IEEE Signal Processing Society (<b>IEEE信号处理学会</b>)
 - *2021.12*: First Place of iDASH Privacy and Security Workshop-Secure Genome Analysis Competition, Awarded by National Institutes of Health (<b>美国国立卫生研究院</b>)
