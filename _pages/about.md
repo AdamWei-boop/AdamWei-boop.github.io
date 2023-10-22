@@ -32,9 +32,6 @@ redirect_from:
 <h3>Conferences</h3>
 - <p align="justify"> Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang and Dacheng Tao, Improving the Model Consistency of Decentralized Federated Learning, <u><b>International Conference on Machine Learning (ICML) 2023</b></u> </p>
 - <p align="justify"> Yifan Shi, Yingqi Liu, <u><b>Kang Wei</b></u>, Li Shen, Xueqian Wang and Dacheng Tao, Make Landscape Flatter in Differentially Private Federated Learning, <u><b>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023</b></u> </p>
-- <p align="justify"> Hanchi Shen, Jun Li, <u><b>Kang Wei</b></u>, Pengcheng Xia, Sirui Tian, Ming Ding and Zengxiang Li, CluFL: Cluster-driven weighted FL model aggregation strategy, <u><b>IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2022</b></u> </p>
-- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Lingjun Kong, Feng Shu, Yonghui Li, Read-voltage Optimization for Finite Code Length in MLC NAND Flash Memory, <u><b>IEEE Information Theory Workshop (ITW) 2018</b></u> </p>
-
 
 <h3>Journals</h3>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Yo-Seb Jeon and H. Vincent Poor, Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization, <u><b>IEEE Transactions on Dependable and Secure Computing (TDSC) 2023</b></u> </p>
