@@ -29,28 +29,38 @@ redirect_from:
 - *2023.04*: &nbsp;🎉🎉 One paper has been accepted by ICML 2023 
 
 # 📝 Publications
-<h3>Conferences</h3>
-- <p align="justify"> Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang and Dacheng Tao, Improving the Model Consistency of Decentralized Federated Learning, <u><b>International Conference on Machine Learning (ICML), 2023</b></u>. </p>
-- <p align="justify"> Yifan Shi, Yingqi Liu, <u><b>Kang Wei</b></u>, Li Shen, Xueqian Wang and Dacheng Tao, Make Landscape Flatter in Differentially Private Federated Learning, <u><b>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023</b></u>. [<a href = "https://github.com/YMJS-Irfan/DP-FedSAM"><b>Code</b></a>] </p>
 
-<h3>Journals</h3>
-- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding, Feng Shu, Haitao Zhao, Wen Chen and Hongbo Zhu, Gradient Sparsification for Efficient Wireless Federated Learning with Differential Privacy, <u><b>SCIENCE CHINA Information Sciences (SCIS), 2024</b></u>. </p>
+<h3>Trustworthy AI</h3>
+- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, Differentially Private Federated Learning: Algorithm, Analysis and Optimization, <u><b>Federated Learning Systems, Springer Nature, 2021</b></u>.</p>
+- <p align="justify"> Yifan Shi, Yingqi Liu, <u><b>Kang Wei</b></u>, Li Shen, Xueqian Wang and Dacheng Tao, Make Landscape Flatter in Differentially Private Federated Learning, <u><b>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2023</b></u>. [<a href = "https://github.com/YMJS-Irfan/DP-FedSAM"><b>Code</b></a>] </p>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Yo-Seb Jeon and H. Vincent Poor, Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization, <u><b>IEEE Transactions on Dependable and Secure Computing (TDSC), 2023</b></u>. </p>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Wen Chen, Jun Wu, Meixia Tao and H. Vincent Poor, Personalized Federated Learning with Differential Privacy and Convergence Guarantee, <u><b>IEEE Transactions on Information Forensics & Security (TIFS), 2023</b></u>. </p>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Hang Su, Bo Zhang and H Vincent Poor, User-level Privacy-preserving Federated Learning: Analysis and Performance Optimization, <u><b>IEEE Transactions on Mobile Computing (TMC), 2022</b></u>. </p>
-- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding, Cailian Chen, Shi Jin, Zhu Han and H. Vincent Poor, Low-Latency Federated Learning Over Wireless Channels With Differential Privacy, <u><b>IEEE Journal on Selected Areas in Communications (JSAC), 2022</b></u>. </p>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Howard H. Yang, Farhad Farokhi, Shi Jin, Tony Q. S. Quek and H. Vincent Poor, Federated Learning with Differential Privacy: Algorithms and Performance Analysis, <u><b>IEEE Transactions on Information Forensics and Security (TIFS), 2020 </b></u>. </p>
-- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Lingjun Kong, Feng Shu, Francis C. M. Lau, Page-based Dynamic Partitioning Scheduling for LDPC Decoding in MLC NAND Flash Memory, <u><b>IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), 2019</b></u>. </p>
 - <p align="justify"> Jun Li, <u><b>Kang Wei (导师一作)</b></u>, Chuan Ma and Feng Shu, DP-GenFL: A Local Differentially Private Federated Learning System through Generative Data, <u><b>SCIENCE CHINA Information Sciences (SCIS), 2022</b></u>. </p>
 - <p align="justify"> Xin Yuan, Wei Ni, Ming Ding, <u><b>Kang Wei (通讯作者)</b></u>, Jun Li and H. Vincent Poor, Amplitude-Varying Perturbation for Balancing Privacy and Utility in Federated Learning, <u><b>IEEE Transactions on Information Forensics & Security (TIFS), 2023</b></u>. </p>
 - <p align="justify"> Chuan Ma, Jun Li, Ming Ding, Bo Liu, <u><b>Kang Wei (通讯作者)</b></u>, RDP-GAN: A R{\'e}nyi-Differential Privacy based Generative Adversarial Network, Jian Weng and H. Vincent Poor, <u><b>IEEE Transactions on Dependable and Secure Computing (TDSC), 2023</b></u>. </p>
 - <p align="justify"> Chuan Ma, Jun Li, <u><b>Kang Wei (通讯作者)</b></u>, Bo Liu, Ming Ding, Long Yuan, Zhu Han, H Vicent Poor, Trusted AI in multi-agent systems: An overview of privacy and security for distributed learning, <u><b>Proceedings of the IEEE, 2023</b></u>. </p>
 - <p align="justify"> Jun Li, Yumeng Shao, <u><b>Kang Wei</b></u>, Ming Ding, Chuan Ma, Long Shi, Zhu Han and H Vincent Poor, Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance Analysis and Resource Allocation, <u><b>IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022</b></u>. </p>
+
+<h3>Wireless Networks</h3>
+- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding, Feng Shu, Haitao Zhao, Wen Chen and Hongbo Zhu, Gradient Sparsification for Efficient Wireless Federated Learning with Differential Privacy, <u><b>SCIENCE CHINA Information Sciences (SCIS), 2024</b></u>. </p>
+- <p align="justify">Xuefeng Han, Jun Li, Wen Chen, Zhen Mei, <u><b>Kang Wei</b></u>, Ming Ding and H. Vincent Poor, Analysis and Optimization of Wireless Federated Learning with Data Heterogeneity, <u><b>IEEE Transactions on Wireless Communications, 2024</b></u>. </p>
+- <p align="justify"> Quan Chen, Song Guo, Wenchao Xu, Jing Li, <u><b>Kang Wei</b></u>, Zhipeng Cai and Hong Gao, Peak AoI Minimization With Directional Charging for Data Collection At Wireless-Powered Network Edge, <u><b>IEEE Transactions on Services Computing, 2024</b></u>. </p>
+- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding, Cailian Chen, Shi Jin, Zhu Han and H. Vincent Poor, Low-Latency Federated Learning Over Wireless Channels With Differential Privacy, <u><b>IEEE Journal on Selected Areas in Communications (JSAC), 2022</b></u>. </p>
 - <p align="justify"> Xiumei Deng, Jun Li, Chuan Ma, <u><b>Kang Wei</b></u>, Long Shi, Ming Ding and Wen Chen, Low-latency Federated Learning with DNN Partition in Distributed Industrial IoT Networks, <u><b>IEEE Journal on Selected Areas in Communications (JSAC), 2023</b></u>. </p>
 - <p align="justify"> Xiumei Deng, Jun Li, Chuan Ma, <u><b>Kang Wei</b></u>, Long Shi, Ming Ding, Wen Chen and H. Vincent Poor, Blockchain Assisted Federated Learning over Wireless Channels: Dynamic Resource Allocation and Client Scheduling, <u><b>IEEE Transactions on Wireless Communications (TWC), 2022</b></u>. </p>
 
-<h3>Books</h3>
-- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, Differentially Private Federated Learning: Algorithm, Analysis and Optimization, <u><b>Federated Learning Systems, Springer Nature, 2021</b></u>. </p>
+<h3>Distributed Optimization</h3>
+- <p align="justify"> Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang and Dacheng Tao, Improving the Model Consistency of Decentralized Federated Learning, <u><b>International Conference on Machine Learning (ICML), 2023</b></u>. </p>
+
+<h3>Industrial Data Analytics</h3>
+- <p align="justify"> Jixuan Cui, Jun Li, Zhen Mei, <u><b>Kang Wei</b></u>, Sha Wei, Ming Ding, Wen Chen and Song Guo, Federated Meta-Learning for Few-Shot Fault Diagnosis With Representation Encoding, <u><b>IEEE Transactions on Instrumentation and Measurement, 2023</b></u>. </p>
+- <p align="justify"> Yajiao Dai, Zhen Mei, Jun Li, Zengxiang Li, <u><b>Kang Wei</b></u>, Ming Ding, Sheng Guo and Wen Chen, Clustering-Based Contrastive Learning for Fault Diagnosis With Few Labeled Samples, <u><b>IEEE Transactions on Instrumentation and Measurement, 2023</b></u>. </p>
+
+<h3>Coded Flash Memory</h3>
+- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Lingjun Kong, Feng Shu, Francis C. M. Lau, Page-based Dynamic Partitioning Scheduling for LDPC Decoding in MLC NAND Flash Memory, <u><b>IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II), 2019</b></u>. </p>
+- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Lingjun Kong, Feng Shu and Yonghui Li, Read-Voltage Optimization for Finite Code Length in MLC NAND Flash Memory, <u><b>IEEE Information Theory Workshop (ITW), 2018</b></u>. </p>
 
 # 🎖 Honors and Awards
 - *2023.10*: IEEE VTC2023-Fall Volunteer Service Award, Awarded by IEEE Vehicular Technology Society (VTS)
