@@ -51,11 +51,9 @@ redirect_from:
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding, Cailian Chen, Shi Jin, Zhu Han and H. Vincent Poor, Low-Latency Federated Learning Over Wireless Channels With Differential Privacy, <u><b>IEEE Journal on Selected Areas in Communications (JSAC)</b></u>, 2022. </p>
 - <p align="justify"> Xiumei Deng, Jun Li, Chuan Ma, <u><b>Kang Wei</b></u>, Long Shi, Ming Ding and Wen Chen, Low-latency Federated Learning with DNN Partition in Distributed Industrial IoT Networks, <u><b>IEEE Journal on Selected Areas in Communications (JSAC)</b></u>, 2023. </p>
 - <p align="justify"> Xiumei Deng, Jun Li, Chuan Ma, <u><b>Kang Wei</b></u>, Long Shi, Ming Ding, Wen Chen and H. Vincent Poor, Blockchain Assisted Federated Learning over Wireless Channels: Dynamic Resource Allocation and Client Scheduling, <u><b>IEEE Transactions on Wireless Communications (TWC)</b></u>, 2022. </p>
-
-<h3>Distributed Optimization</h3>
 - <p align="justify"> Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang and Dacheng Tao, Improving the Model Consistency of Decentralized Federated Learning, <u><b>International Conference on Machine Learning (ICML)</b></u>, 2023. </p>
 
-<h3>Industrial Data Analytics</h3>
+<h3>Data Analytics</h3>
 - <p align="justify"> Jixuan Cui, Jun Li, Zhen Mei, <u><b>Kang Wei</b></u>, Sha Wei, Ming Ding, Wen Chen and Song Guo, Federated Meta-Learning for Few-Shot Fault Diagnosis With Representation Encoding, <u><b>IEEE Transactions on Instrumentation and Measurement</b></u>, 2023. </p>
 - <p align="justify"> Yajiao Dai, Zhen Mei, Jun Li, Zengxiang Li, <u><b>Kang Wei</b></u>, Ming Ding, Sheng Guo and Wen Chen, Clustering-Based Contrastive Learning for Fault Diagnosis With Few Labeled Samples, <u><b>IEEE Transactions on Instrumentation and Measurement</b></u>, 2023. </p>
 
