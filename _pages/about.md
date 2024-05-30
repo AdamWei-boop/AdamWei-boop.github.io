@@ -43,7 +43,7 @@ redirect_from:
 - <p align="justify"> Chuan Ma, Jun Li, <u><b>Kang Wei (通讯作者)</b></u>, Bo Liu, Ming Ding, Long Yuan, Zhu Han, H Vicent Poor, Trusted AI in multi-agent systems: An overview of privacy and security for distributed learning, <u><b>Proceedings of the IEEE</b></u>, 2023. </p>
 - <p align="justify"> Jun Li, Yumeng Shao, <u><b>Kang Wei</b></u>, Ming Ding, Chuan Ma, Long Shi, Zhu Han and H Vincent Poor, Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance Analysis and Resource Allocation, <u><b>IEEE Transactions on Parallel and Distributed Systems (TPDS)</b></u>, 2022. </p>
 
-<h3>Cloud-Edge-Terminal Networks</h3>
+<h3>End-Edge-Cloud Networks</h3>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding, Feng Shu, Haitao Zhao, Wen Chen and Hongbo Zhu, Gradient Sparsification for Efficient Wireless Federated Learning with Differential Privacy, <u><b>SCIENCE CHINA Information Sciences (SCIS)</b></u>, 2024. </p>
 - <p align="justify"> Jing Li, Song Guo, Weifa Liang, Jianping Wang, Quan Chen, Wenchao Xu, <u><b>Kang Wei</b></u>, Xiaohua Jia, Mobility-Aware Utility Maximization in Digital Twin-Enabled Serverless Edge Computing, <u><b>IEEE Transactions on Computers</b></u>, 2024. </p>
 - <p align="justify">Xuefeng Han, Jun Li, Wen Chen, Zhen Mei, <u><b>Kang Wei</b></u>, Ming Ding and H. Vincent Poor, Analysis and Optimization of Wireless Federated Learning with Data Heterogeneity, <u><b>IEEE Transactions on Wireless Communications</b></u>, 2024. </p>
