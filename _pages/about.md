@@ -73,17 +73,21 @@ redirect_from:
 - *2021.04*: Tencent Rhinoceros Bird Project, Awarded by Tencent
 - *2021-2023*: Outstanding Doctoral Program, Awarded by Nanjing University of Science and Technology
 
+# 💻 Service
+- *2024.06 - Now*: Cybersecurity (CCF-C Journal), Editorial Board
+- *2024.07*: Program Chair, IEEE ICWS-Internet of Intelligent Service Systems (IISS) Workshop
+- *2023.12*: Program Committee Member, IThings-International Workshop on Future Mobile Computing and Networking for Internet of Things (FMobile)
+- *2023.01 - Now*: Nature Communications, PATTERNS, NeurIPS, ICML, ICLR, KDD, IEEE JSAC, IEEE TWC, IEEE TSP, IEEE JSTSP, IEEE TIFS, IEEE TKDE, IEEE TMC and etc.
+
 # 📖 Educations
 - *2023.01 - now*: Post-doctoral Fellow, The Hong Kong Polytechnic University, Hong Kong 
 - *2018.09 - 2023.01*: Ph.D., Nanjing University of Science and Technology, Nanjing China
 - *2017.09 - 2018.06*: Master, Nanjing University of Science and Technology, Nanjing China
+- *2021.06 - 2021.12*: Research Intern, Tencent, Shenzhen China
+- *2014.08 - 2016.06*: Engineer, Panda Group, Nanjing China
 - *2010.08 - 2014.07*: B.E., Xidian University, Xian China
-- *2007.09 - 2010.06*: High school, Nanjing Dongshan Foreign Language School, Nanjing China 
+- *2007.09 - 2010.06*: High school, Nanjing Dongshan Foreign Language School, Nanjing China
 
 # 💬 Invited Talks
 - *2020*: Communication Rounds Discounting in Federated Learning with Differential Privacy, IEEE International Symposium on a Word of Wireless, Mobile and Multimedia Networks (WOWMOM)-Intelligent Things and Services (INTHINGS) 
 - *2020*: Privacy and Security in Federated Learning, IEEE/CIC ICCC
-
-# 💻 Experiences
-- *2021.06 - 2021.12*: Research Intern, Tencent, Shenzhen China
-- *2014.08 - 2016.06*: Engineer, Panda Group, Nanjing China
