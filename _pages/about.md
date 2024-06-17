@@ -32,7 +32,7 @@ redirect_from:
 # 📝 Publications
 
 <h3>Trustworthy AI</h3>
-- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, Differentially Private Federated Learning: Algorithm, Analysis and Optimization, <u><b>Federated Learning Systems, Springer Nature</b></u>, 2021.</p>
+- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, Differentially Private Federated Learning: Algorithm, Analysis and Optimization, <u><b>Federated Learning Systems, Springer Nature</b></u>, 2021. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> </p>
 - <p align="justify"> Yifan Shi, Yingqi Liu, <u><b>Kang Wei</b></u>, Li Shen, Xueqian Wang and Dacheng Tao, Make Landscape Flatter in Differentially Private Federated Learning, <u><b>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)</b></u>, 2023. [<a href = "https://github.com/YMJS-Irfan/DP-FedSAM"><b>Code</b></a>] </p>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Yo-Seb Jeon and H. Vincent Poor, Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization, <u><b>IEEE Transactions on Dependable and Secure Computing (TDSC)</b></u>, 2023. </p>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Wen Chen, Jun Wu, Meixia Tao and H. Vincent Poor, Personalized Federated Learning with Differential Privacy and Convergence Guarantee, <u><b>IEEE Transactions on Information Forensics & Security (TIFS)</b></u>, 2023. </p>
