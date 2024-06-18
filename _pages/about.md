@@ -75,11 +75,11 @@ redirect_from:
 
 # 💻 Service
 - *2024.06 - Now*: Editorial Board, Cybersecurity (CCF-C Journal)
-- *2024.07*: Program Chair, IEEE ICWS-Internet of Intelligent Service Systems (IISS) Workshop
-- *2023.12*: Program Committee Member, IThings-International Workshop on Future Mobile Computing and Networking for Internet of Things (FMobile)
+- *2024.07*: Program Chair, IEEE ICWS-Internet of Intelligent Service Systems (IISS) Workshop (CCF-B Conference)
+- *2023.12*: Program Committee Member, IEEE iThings-International Workshop on Future Mobile Computing and Networking for Internet of Things (FMobile) (CCF-C Conference)
 - *2023.01 - Now*: Review for Nature Communications, PATTERNS, NeurIPS, ICML, ICLR, KDD, IEEE JSAC, IEEE TWC, IEEE TSP, IEEE JSTSP, IEEE TIFS, IEEE TKDE, IEEE TMC and etc.
 
-# 📖 Educations
+# 📖 Educations and Experiences
 - *2023.01 - now*: Post-doctoral Fellow, The Hong Kong Polytechnic University, Hong Kong 
 - *2018.09 - 2023.01*: Ph.D., Nanjing University of Science and Technology, Nanjing China
 - *2017.09 - 2018.06*: Master, Nanjing University of Science and Technology, Nanjing China
