@@ -47,6 +47,7 @@ redirect_from:
 
 <h3>End-Edge-Cloud Networks</h3>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding, Feng Shu, Haitao Zhao, Wen Chen and Hongbo Zhu, Gradient Sparsification for Efficient Wireless Federated Learning with Differential Privacy, <u><b>SCIENCE CHINA Information Sciences (SCIS)</b></u>, 2024. </p>
+- <p align="justify"> Jun Li, Weiwei Zhang, <u><b>Kang Wei (通讯作者)</b></u>, Guangji Chen, Feng Shu, Wen Chen, Shi Jin, Blockchain-aided wireless federated learning: Resource allocation and client scheduling, <u><b>IEEE Internet of Things Journal</b></u>, 2024. </p>
 - <p align="justify"> Jing Li, Song Guo, Weifa Liang, Jianping Wang, Quan Chen, Wenchao Xu, <u><b>Kang Wei</b></u>, Xiaohua Jia, Mobility-Aware Utility Maximization in Digital Twin-Enabled Serverless Edge Computing, <u><b>IEEE Transactions on Computers</b></u>, 2024. </p>
 - <p align="justify">Xuefeng Han, Jun Li, Wen Chen, Zhen Mei, <u><b>Kang Wei</b></u>, Ming Ding and H. Vincent Poor, Analysis and Optimization of Wireless Federated Learning with Data Heterogeneity, <u><b>IEEE Transactions on Wireless Communications</b></u>, 2024. </p>
 - <p align="justify"> Quan Chen, Song Guo, Wenchao Xu, Jing Li, <u><b>Kang Wei</b></u>, Zhipeng Cai and Hong Gao, Peak AoI Minimization With Directional Charging for Data Collection At Wireless-Powered Network Edge, <u><b>IEEE Transactions on Services Computing</b></u>, 2024. </p>
