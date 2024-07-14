@@ -76,7 +76,7 @@ redirect_from:
 - *2021-2023*: Outstanding Doctoral Program, Awarded by Nanjing University of Science and Technology
 
 # 💻 Service
-- *2024.07*: Session Chairs of ICWS 32: Services Security, Privacy and Trust and ICWS 33: Services Optimization, IEEE ICWS (CCF-B Conference)
+- *2024.07*: Session Chair of ICWS 32: Services Security, Privacy and Trust and ICWS 33: Services Optimization, IEEE ICWS (CCF-B Conference)
 - *2024.07*: Program Chair, IEEE ICWS-Internet of Intelligent Service Systems (IISS) Workshop (CCF-B Conference)
 - *2024.06 - Now*: Editorial Board, Cybersecurity (CCF-C Journal)
 - *2023.12*: Program Committee Member, IEEE iThings-International Workshop on Future Mobile Computing and Networking for Internet of Things (FMobile) (CCF-C Conference)
