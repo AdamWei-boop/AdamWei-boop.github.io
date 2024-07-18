@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Our paper was accepted by ECCV 2024
 - *2024.05*: &nbsp;🎉🎉 Kang Wei was elected to the Young editorial board of CCF-C Journal "Cybersecurity"
 - *2023.10*: &nbsp;🎉🎉 Kang Wei won the IEEE VTC2023-Fall Volunteer Service Award
 - *2023.08*: &nbsp;🎉🎉 Our paper was accepted by Proceedings of the IEEE
