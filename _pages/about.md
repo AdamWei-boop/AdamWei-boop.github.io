@@ -31,7 +31,6 @@ redirect_from:
 - *2023.04*: &nbsp;🎉🎉 One paper was accepted by ICML 2023 
 
 # 📝 Publications
-
 <h3>Trustworthy AI</h3>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, Differentially Private Federated Learning: Algorithm, Analysis and Optimization, <u><b>Federated Learning Systems, Springer Nature</b></u>, 2021. </p> 
 - <p align="justify"> Shuchi Wu, Chuan Ma, <u><b>Kang Wei (通讯作者)</b></u>, Xiaogang Xu, Ming Ding, Yuwen Qian, Tao Xiang, Refine, Discriminate and Align: Stealing Encoders via Sample-Wise Prototypes and Multi-Relational Extraction, <u><b>The 18th European Conference on Computer Vision (ECCV)</b></u>, 2024. [<a href = "https://github.com/ShuchiWu/RDA"><b>Code</b></a>] </p>
