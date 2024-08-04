@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉🎉 Kang Wei was elected to the Program Committee of AAAI 2025
 - *2024.06*: &nbsp;🎉🎉 Our paper was accepted by ECCV 2024
 - *2024.05*: &nbsp;🎉🎉 Kang Wei was elected to the Young editorial board of CCF-C Journal "Cybersecurity"
 - *2023.10*: &nbsp;🎉🎉 Kang Wei won the IEEE VTC2023-Fall Volunteer Service Award
@@ -76,6 +77,7 @@ redirect_from:
 - *2021-2023*: Outstanding Doctoral Program, Awarded by Nanjing University of Science and Technology
 
 # 💻 Service
+- *2024.08*: Program Committee of AAAI 2025 (CCF-A Conference)
 - *2024.07*: Session Chair of ICWS 32: Services Security, Privacy and Trust and ICWS 33: Services Optimization, IEEE ICWS (CCF-B Conference)
 - *2024.07*: Program Chair, IEEE ICWS-Internet of Intelligent Service Systems (IISS) Workshop (CCF-B Conference)
 - *2024.06 - Now*: Editorial Board, Cybersecurity (CCF-C Journal)
