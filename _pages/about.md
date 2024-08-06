@@ -33,7 +33,6 @@ redirect_from:
 
 # 📝 Publications
 <h3>Trustworthy AI</h3>
-- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, Differentially Private Federated Learning: Algorithm, Analysis and Optimization, <u><b>Federated Learning Systems, Springer Nature</b></u>, 2021. </p> 
 - <p align="justify"> Shuchi Wu, Chuan Ma, <u><b>Kang Wei (通讯作者)</b></u>, Xiaogang Xu, Ming Ding, Yuwen Qian, Tao Xiang, Refine, Discriminate and Align: Stealing Encoders via Sample-Wise Prototypes and Multi-Relational Extraction, <u><b>The 18th European Conference on Computer Vision (ECCV)</b></u>, 2024. [<a href = "https://github.com/ShuchiWu/RDA"><b>Code</b></a>] </p>
 - <p align="justify"> Yifan Shi, Yingqi Liu, <u><b>Kang Wei</b></u>, Li Shen, Xueqian Wang and Dacheng Tao, Make Landscape Flatter in Differentially Private Federated Learning, <u><b>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)</b></u>, 2023. [<a href = "https://github.com/YMJS-Irfan/DP-FedSAM"><b>Code</b></a>] </p>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Yo-Seb Jeon and H. Vincent Poor, Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization, <u><b>IEEE Transactions on Dependable and Secure Computing (TDSC)</b></u>, 2023. </p>
@@ -45,6 +44,7 @@ redirect_from:
 - <p align="justify"> Chuan Ma, Jun Li, Ming Ding, Bo Liu, <u><b>Kang Wei (通讯作者)</b></u>, RDP-GAN: A R{\'e}nyi-Differential Privacy based Generative Adversarial Network, Jian Weng and H. Vincent Poor, <u><b>IEEE Transactions on Dependable and Secure Computing (TDSC)</b></u>, 2023. </p>
 - <p align="justify"> Chuan Ma, Jun Li, <u><b>Kang Wei (通讯作者)</b></u>, Bo Liu, Ming Ding, Long Yuan, Zhu Han, H Vicent Poor, Trusted AI in multi-agent systems: An overview of privacy and security for distributed learning, <u><b>Proceedings of the IEEE</b></u>, 2023. </p>
 - <p align="justify"> Jun Li, Yumeng Shao, <u><b>Kang Wei</b></u>, Ming Ding, Chuan Ma, Long Shi, Zhu Han and H Vincent Poor, Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance Analysis and Resource Allocation, <u><b>IEEE Transactions on Parallel and Distributed Systems (TPDS)</b></u>, 2022. </p>
+- <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, Differentially Private Federated Learning: Algorithm, Analysis and Optimization, <u><b>Federated Learning Systems, Springer Nature</b></u>, 2021. </p> 
 
 <h3>End-Edge-Cloud Networks</h3>
 - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding, Feng Shu, Haitao Zhao, Wen Chen and Hongbo Zhu, Gradient Sparsification for Efficient Wireless Federated Learning with Differential Privacy, <u><b>SCIENCE CHINA Information Sciences (SCIS)</b></u>, 2024. </p>
