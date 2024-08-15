@@ -95,6 +95,7 @@ redirect_from:
 - *2007.09 - 2010.06*: High school, Nanjing Dongshan Foreign Language School, Nanjing China
 
 # 💬 Co-supervised Students
+- *Shuchi Wu*: One ECCV, One CCF ICSS 
 - *Weiwei Zhang*: One IoTJ, One WCL 
 - *Dan Luo*: One ICPADS; China Telecom Anhui
 - *Haiyang Sun*: One China Comm.; Ant Group
