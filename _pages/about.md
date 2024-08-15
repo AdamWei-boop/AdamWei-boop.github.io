@@ -94,6 +94,9 @@ redirect_from:
 - *2010.08 - 2014.07*: B.E., Xidian University, Xian China
 - *2007.09 - 2010.06*: High school, Nanjing Dongshan Foreign Language School, Nanjing China
 
-# 💬 Invited Talks
-- *2020*: Communication Rounds Discounting in Federated Learning with Differential Privacy, IEEE International Symposium on a Word of Wireless, Mobile and Multimedia Networks (WOWMOM)-Intelligent Things and Services (INTHINGS) 
-- *2020*: Privacy and Security in Federated Learning, IEEE/CIC ICCC
+# 💬 Co-supervised Students
+- *Weiwei Zhang*: One IoTJ, One WCL 
+- *Dan Luo*: One ICPADS; China Telecom Anhui
+- *Haiyang Sun*: One China Comm.; Ant Group
+- *Yifang Shi*: One TMC, One ICML, One CVPR; Tsinghua Shenzhen International Graduate School
+- *Hanchi Shen*: One ICPADS
