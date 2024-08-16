@@ -96,10 +96,10 @@ redirect_from:
 
 # 💬 Co-supervised Students
 - *Shuchi Wu*: Publications: ECCV $\times$ 1, CCF ICSS $\times$ 1; Location: TBD
-- *Weiwei Zhang*: Publications: IoTJ $\times$ 1, WCL $\times$ 1; Location: TBD
-- *Dan Luo*: Publications: ICPADS $\times$ 1; Location: China Telecom Anhui
+- *Weiwei Zhang*: Publications: IEEE IoTJ $\times$ 1, IEEE WCL $\times$ 1; Location: TBD
+- *Dan Luo*: Publications: IEEE ICPADS $\times$ 1; Location: China Telecom Anhui
 - *Haiyang Sun*: Publications: China Communications $\times$ 1; Location: Alibaba Group
-- *Yifang Shi*: Publications: TMC $\times$ 1, ICML $\times$ 1, CVPR $\times$ 1; Location: Tsinghua Shenzhen International Graduate School
-- *Hanchi Shen*: Publications: ICPADS $\times$ 1
+- *Yifang Shi*: Publications: IEEE TMC $\times$ 1, ICML $\times$ 1, CVPR $\times$ 1; Location: Tsinghua Shenzhen International Graduate School
+- *Hanchi Shen*: Publications: IEEE ICPADS $\times$ 1
 - *Jie Liao*: Location: Zhongxing Telecommunication Equipment Corporation
 - *Chengan Zhou*: Location: Zhongxing Telecommunication Equipment Corporation
