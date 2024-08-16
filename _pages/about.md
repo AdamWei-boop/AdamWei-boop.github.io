@@ -95,9 +95,9 @@ redirect_from:
 - *2007.09 - 2010.06*: High school, Nanjing Dongshan Foreign Language School, Nanjing China
 
 # 💬 Co-supervised Students
-- *Shuchi Wu*: One ECCV, One CCF ICSS 
-- *Weiwei Zhang*: One IoTJ, One WCL 
-- *Dan Luo*: One ICPADS; China Telecom Anhui
-- *Haiyang Sun*: One China Comm.; Ant Group
-- *Yifang Shi*: One TMC, One ICML, One CVPR; Tsinghua Shenzhen International Graduate School
-- *Hanchi Shen*: One ICPADS
+- *Shuchi Wu*: Publications: ECCV $\times$ 1, CCF ICSS $\times$ 1; Direction: TBD
+- *Weiwei Zhang*: Publications: IoTJ $\times$ 1, WCL $\times$ 1; Direction: TBD
+- *Dan Luo*: Publications: ICPADS $\times$ 1; Direction: China Telecom Anhui
+- *Haiyang Sun*: Publications: China Communications $\times$ 1; Direction: Ant Group
+- *Yifang Shi*: Publications: TMC $\times$ 1, ICML $\times$ 1, CVPR $\times$ 1; Direction: Tsinghua Shenzhen International Graduate School
+- *Hanchi Shen*: Publications: ICPADS $\times$ 1
