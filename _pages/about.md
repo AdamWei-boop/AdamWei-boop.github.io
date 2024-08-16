@@ -95,9 +95,11 @@ redirect_from:
 - *2007.09 - 2010.06*: High school, Nanjing Dongshan Foreign Language School, Nanjing China
 
 # 💬 Co-supervised Students
-- *Shuchi Wu*: Publications: ECCV $\times$ 1, CCF ICSS $\times$ 1; Direction: TBD
-- *Weiwei Zhang*: Publications: IoTJ $\times$ 1, WCL $\times$ 1; Direction: TBD
-- *Dan Luo*: Publications: ICPADS $\times$ 1; Direction: China Telecom Anhui
-- *Haiyang Sun*: Publications: China Communications $\times$ 1; Direction: Ant Group
-- *Yifang Shi*: Publications: TMC $\times$ 1, ICML $\times$ 1, CVPR $\times$ 1; Direction: Tsinghua Shenzhen International Graduate School
+- *Shuchi Wu*: Publications: ECCV $\times$ 1, CCF ICSS $\times$ 1; Location: TBD
+- *Weiwei Zhang*: Publications: IoTJ $\times$ 1, WCL $\times$ 1; Location: TBD
+- *Dan Luo*: Publications: ICPADS $\times$ 1; Location: China Telecom Anhui
+- *Haiyang Sun*: Publications: China Communications $\times$ 1; Location: Alibaba Group
+- *Yifang Shi*: Publications: TMC $\times$ 1, ICML $\times$ 1, CVPR $\times$ 1; Location: Tsinghua Shenzhen International Graduate School
 - *Hanchi Shen*: Publications: ICPADS $\times$ 1
+- *Jie Liao*: Location: Zhongxing Telecommunication Equipment Corporation
+- *Chengan Zhou*: Location: Zhongxing Telecommunication Equipment Corporation
