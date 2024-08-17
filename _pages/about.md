@@ -99,7 +99,7 @@ redirect_from:
 - *Weiwei Zhang*: Publications: IEEE IoTJ $\times$ 1, IEEE WCL $\times$ 1; Location: TBD
 - *Dan Luo*: Publications: IEEE ICPADS $\times$ 1; Location: China Telecom Anhui
 - *Haiyang Sun*: Publications: China Communications $\times$ 1; Location: Alibaba Group
-- *Yifang Shi*: Publications: IEEE TMC $\times$ 1, ICML $\times$ 1, CVPR $\times$ 1; Location: Tsinghua University Shenzhen International Graduate School
+- *Yifan Shi*: Publications: IEEE TMC $\times$ 1, ICML $\times$ 1, CVPR $\times$ 1; Location: Tsinghua University Shenzhen International Graduate School
 - *Hanchi Shen*: Publications: IEEE ICPADS $\times$ 1
 - *Jie Liao*: Location: Zhongxing Telecommunication Equipment Corporation (ZTE)
 - *Chengan Zhou*: Location: Zhongxing Telecommunication Equipment Corporation (ZTE)
