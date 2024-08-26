@@ -78,17 +78,18 @@ redirect_from:
 - *2021-2023*: Outstanding Doctoral Program, Awarded by Nanjing University of Science and Technology
 
 # 💻 Service
-<u><b>Editor Board:</b></u>
-- Young Editorial Board, Cybersecurity (CCF-C Journal) [*2024.06 -*]
+- <u><b>Editor Board:</b></u>
+  - Young Editorial Board, Cybersecurity (CCF-C Journal) [*2024.06 -*]
 
-<u><b>Program Chair and Committee:</b></u>
-- Program Committee, AAAI (CCF-A Conference) [*2025*]
-- Program Chair, IEEE ICWS-Internet of Intelligent Service Systems (IISS) Workshop (CCF-B Conference) [*2024*]
-- Session Chair, ICWS 32: Services Security, Privacy and Trust and ICWS 33: Services Optimization, IEEE ICWS (CCF-B Conference) [*2024*]
-- Program Committee Member, IEEE iThings-International Workshop on Future Mobile Computing and Networking for Internet of Things (FMobile) (CCF-C Conference) [*2023*]
+- <u><b>Program Chair and Committee:</b></u>
+  - Program Committee, AAAI (CCF-A Conference) [*2025*]
+  - Program Chair, IEEE ICWS-Internet of Intelligent Service Systems (IISS) Workshop (CCF-B Conference) [*2024*]
+  - Session Chair, ICWS 32: Services Security, Privacy and Trust and ICWS 33: Services Optimization, IEEE ICWS (CCF-B Conference) [*2024*]
+  - Program Committee Member, IEEE iThings-International Workshop on Future Mobile Computing and Networking for Internet of Things (FMobile) (CCF-C Conference) [*2023*]
 
-<u><b>Reviewer:</b></u>
-- Nature Communications, PATTERNS, NeurIPS, ICML, ICLR, KDD, IEEE JSAC, IEEE TWC, IEEE TSP, IEEE JSTSP, IEEE TIFS, IEEE TKDE, IEEE TMC and etc.
+- <u><b>Reviewer:</b></u>
+  - Nature Communications, PATTERNS, NeurIPS, ICML, ICLR, KDD, IEEE TIFS, IEEE TKDE, IEEE TMC
+  - IEEE JSAC, IEEE TWC, IEEE TSP, IEEE JSTSP and etc.
 
 # 📖 Educations and Experiences
 - *2023.01 - now*: Post-doctoral Fellow, The Hong Kong Polytechnic University, Hong Kong 
