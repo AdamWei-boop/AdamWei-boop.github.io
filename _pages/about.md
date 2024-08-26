@@ -79,7 +79,7 @@ redirect_from:
 
 # 💻 Service
 <u><b>Editor Board:</b></u>
-- Young Editorial Board, Cybersecurity (CCF-C Journal) [*2024.06 - *]
+- Young Editorial Board, Cybersecurity (CCF-C Journal) [*2024.06 -*]
 
 <u><b>Program Chair and Committee:</b></u>
 - Program Committee, AAAI (CCF-A Conference) [*2025*]
