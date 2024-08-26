@@ -99,7 +99,7 @@ redirect_from:
 - *2010.08 - 2014.07*: B.E., Xidian University, Xian China
 - *2007.09 - 2010.06*: High school, Nanjing Dongshan Foreign Language School, Nanjing China
 
-# 💬 Co-supervised Students
+# 💬 Co-supervised and Cooperative Students
 - *Shuchi Wu*: Publications: ECCV $\times$ 1, CCF ICSS $\times$ 1; Location: TBD
 - *Weiwei Zhang*: Publications: IEEE IoTJ $\times$ 1, IEEE WCL $\times$ 1; Location: TBD
 - *Dan Luo*: Publications: IEEE ICPADS $\times$ 1; Location: China Telecom Anhui
