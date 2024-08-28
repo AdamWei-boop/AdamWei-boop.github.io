@@ -32,7 +32,7 @@ redirect_from:
 - *2023.04*: &nbsp;🎉🎉 One paper was accepted by ICML 2023 
 
 # 📝 Publications
-- <h3>Trustworthy AI</h3>
+- <u><b>Trustworthy AI:</b></u>
   - <p align="justify"> Shuchi Wu, Chuan Ma, <u><b>Kang Wei (通讯作者)</b></u>, Xiaogang Xu, Ming Ding, Yuwen Qian, Tao Xiang, Refine, Discriminate and Align: Stealing Encoders via Sample-Wise Prototypes and Multi-Relational Extraction, <u><b>The 18th European Conference on Computer Vision (ECCV)</b></u>, 2024. [<a href = "https://github.com/ShuchiWu/RDA"><b>Code</b></a>] </p>
   - <p align="justify"> Yifan Shi, Yingqi Liu, <u><b>Kang Wei</b></u>, Li Shen, Xueqian Wang and Dacheng Tao, Make Landscape Flatter in Differentially Private Federated Learning, <u><b>IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)</b></u>, 2023. [<a href = "https://github.com/YMJS-Irfan/DP-FedSAM"><b>Code</b></a>] </p>
   - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Ming Ding, Chuan Ma, Yo-Seb Jeon and H. Vincent Poor, Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization, <u><b>IEEE Transactions on Dependable and Secure Computing (TDSC)</b></u>, 2023. </p>
@@ -46,7 +46,7 @@ redirect_from:
   - <p align="justify"> Jun Li, Yumeng Shao, <u><b>Kang Wei</b></u>, Ming Ding, Chuan Ma, Long Shi, Zhu Han and H Vincent Poor, Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance Analysis and Resource Allocation, <u><b>IEEE Transactions on Parallel and Distributed Systems (TPDS)</b></u>, 2022. </p>
   - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding and H. Vincent Poor, Differentially Private Federated Learning: Algorithm, Analysis and Optimization, <u><b>Federated Learning Systems, Springer Nature</b></u>, 2021. </p> 
 
-- <h3>End-Edge-Cloud Networks</h3>
+- <u><b>End-Edge-Cloud Networks:</b></u>
   - <p align="justify"> Jun Li, Weiwei Zhang, <u><b>Kang Wei (通讯作者)</b></u>, Guangji Chen, Long Shi, Wen Chen, Deploying Graph Neural Networks in Wireless Networks: A Link Stability Viewpoint, <u><b>IEEE Wireless Communications Letters</b></u>, 2024. </p>
   - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Chuan Ma, Ming Ding, Feng Shu, Haitao Zhao, Wen Chen and Hongbo Zhu, Gradient Sparsification for Efficient Wireless Federated Learning with Differential Privacy, <u><b>SCIENCE CHINA Information Sciences (SCIS)</b></u>, 2024. </p>
   - <p align="justify"> Jun Li, Weiwei Zhang, <u><b>Kang Wei (通讯作者)</b></u>, Guangji Chen, Feng Shu, Wen Chen, Shi Jin, Blockchain-aided wireless federated learning: Resource allocation and client scheduling, <u><b>IEEE Internet of Things Journal</b></u>, 2024. </p>
@@ -58,11 +58,11 @@ redirect_from:
   - <p align="justify"> Xiumei Deng, Jun Li, Chuan Ma, <u><b>Kang Wei</b></u>, Long Shi, Ming Ding, Wen Chen and H. Vincent Poor, Blockchain Assisted Federated Learning over Wireless Channels: Dynamic Resource Allocation and Client Scheduling, <u><b>IEEE Transactions on Wireless Communications (TWC)</b></u>, 2022. </p>
   - <p align="justify"> Yifan Shi, Li Shen, <u><b>Kang Wei</b></u>, Yan Sun, Bo Yuan, Xueqian Wang and Dacheng Tao, Improving the Model Consistency of Decentralized Federated Learning, <u><b>International Conference on Machine Learning (ICML)</b></u>, 2023. </p>
 
-- <h3>Data Analytics</h3>
+- <u><b>Data Analytics:</b></u>
   - <p align="justify"> Jixuan Cui, Jun Li, Zhen Mei, <u><b>Kang Wei</b></u>, Sha Wei, Ming Ding, Wen Chen and Song Guo, Federated Meta-Learning for Few-Shot Fault Diagnosis With Representation Encoding, <u><b>IEEE Transactions on Instrumentation and Measurement</b></u>, 2023. </p>
   - <p align="justify"> Yajiao Dai, Zhen Mei, Jun Li, Zengxiang Li, <u><b>Kang Wei</b></u>, Ming Ding, Sheng Guo and Wen Chen, Clustering-Based Contrastive Learning for Fault Diagnosis With Few Labeled Samples, <u><b>IEEE Transactions on Instrumentation and Measurement</b></u>, 2023. </p>
 
-- <h3>Coded Flash Memory</h3>
+- <u><b>Coded Flash Memory:</b></u>
   - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Lingjun Kong, Feng Shu, Francis C. M. Lau, Page-based Dynamic Partitioning Scheduling for LDPC Decoding in MLC NAND Flash Memory, <u><b>IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)</b></u>, 2019. </p>
   - <p align="justify"> <u><b>Kang Wei</b></u>, Jun Li, Lingjun Kong, Feng Shu and Yonghui Li, Read-Voltage Optimization for Finite Code Length in MLC NAND Flash Memory, <u><b>IEEE Information Theory Workshop (ITW)</b></u>, 2018. </p>
 
