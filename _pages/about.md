@@ -101,8 +101,8 @@ redirect_from:
 - *2007.09 - 2010.06*: High school, Nanjing Dongshan Foreign Language School, Nanjing China
 
 # 💬 Co-supervised and Cooperative Students
-- *Shuchi Wu*: Publications: ECCV $\times$ 1, CCF ICSS $\times$ 1; Location: Waiting for good news!
-- *Weiwei Zhang*: Publications: IEEE IoTJ $\times$ 1, IEEE WCL $\times$ 1; Location: Waiting for good news!
+- *Shuchi Wu*: Publications: ECCV $\times$ 1, CCF ICSS $\times$ 1; Location: Huawei 2012 Lab
+- *Weiwei Zhang*: Publications: IEEE IoTJ $\times$ 1, IEEE WCL $\times$ 1; Location: Zhongxing Telecommunication Equipment Corporation (ZTE)
 - *Dan Luo*: Publications: IEEE ICPADS $\times$ 1; Location: China Telecom Anhui
 - *Haiyang Sun*: Publications: China Communications $\times$ 1; Location: Alibaba Group
 - *Yifan Shi*: Publications: IEEE TMC $\times$ 1, ICML $\times$ 1, CVPR $\times$ 1; Location: Tsinghua University Shenzhen International Graduate School
