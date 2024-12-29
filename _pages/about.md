@@ -83,6 +83,7 @@ redirect_from:
   - Young Editorial Board, Cybersecurity (CCF-C Journal) [*2024.06 -*]
 
 - <u><b>Program Chair and Committee:</b></u>
+  - Program Committee, WWW (CCF-A Conference) [*2025*]
   - Program Committee, AAAI (CCF-A Conference) [*2025*]
   - Program Chair, IEEE ICWS-Internet of Intelligent Service Systems (IISS) Workshop (CCF-B Conference) [*2024*]
   - Session Chair, ICWS 32: Services Security, Privacy and Trust and ICWS 33: Services Optimization, IEEE ICWS (CCF-B Conference) [*2024*]
