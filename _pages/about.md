@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 Kang Wei was elected to the Program Committee of WWW 2025
 - *2024.08*: &nbsp;🎉🎉 Kang Wei was elected to the Program Committee of AAAI 2025
 - *2024.06*: &nbsp;🎉🎉 Our paper was accepted by ECCV 2024
 - *2024.05*: &nbsp;🎉🎉 Kang Wei was elected to the Young editorial board of CCF-C Journal "Cybersecurity"
