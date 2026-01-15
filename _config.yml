@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kang Wei"
-description              : "Postdoctoral fellow. Focusing on resource-efficient and privacy-preserving machine learning systems."
+description              : "Associate Professor. Focusing on resource-efficient and privacy-preserving machine learning systems."
 repository               : "https://adamwei-boop.github.io/kang.wei.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kang Wei"
   avatar           : "Kang_Wei.jpg"
-  bio              : "The Hong Kong Polytechnic University"
-  location         : "Hong Kong, China"
+  bio              : "Southeast University"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=CYqbLN8AAAAJ"
