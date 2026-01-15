@@ -92,7 +92,8 @@ redirect_from:
   - IEEE JSAC, IEEE TWC, IEEE TSP, IEEE JSTSP and etc.
 
 # 📖 Educations and Experiences
-- *2023.01 - now*: Post-doctoral Fellow, The Hong Kong Polytechnic University, Hong Kong 
+- *2025.02 - Now*: Associate Professor, Southeast University, China 
+- *2023.01 - 2025.01*: Post-doctoral Fellow, The Hong Kong Polytechnic University, Hong Kong 
 - *2018.09 - 2023.01*: Ph.D., Nanjing University of Science and Technology, Nanjing China
 - *2017.09 - 2018.06*: Master, Nanjing University of Science and Technology, Nanjing China
 - *2021.06 - 2021.12*: Research Intern, Tencent, Shenzhen China
